@@ -1,0 +1,4 @@
+Average General RMSE: 40.40995
+Average Train RMSE: 8.03934
+General StdDev: 0.71066
+Train StdDev: 2.82025
